@@ -1,1 +1,1 @@
-Hibernate Trainigs
+Contains Hibernate Trainings
